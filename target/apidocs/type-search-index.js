@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"taskmanager","l":"App"},{"p":"taskmanager","l":"Main"},{"p":"taskmanager","l":"PrimaryController"},{"p":"taskmanager","l":"ProjectFormController"},{"p":"taskmanager","l":"SecondaryController"},{"p":"taskmanager","l":"UserFormController"}]

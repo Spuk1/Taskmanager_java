@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+--class-path
+'/home/leon/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar:/home/leon/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar:/home/leon/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.2.0/mariadb-java-client-3.2.0.jar:/home/leon/.m2/repository/com/github/waffle/waffle-jna/3.2.0/waffle-jna-3.2.0.jar:/home/leon/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar:/home/leon/.m2/repository/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/home/leon/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36.jar:/home/leon/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/leon/.m2/repository/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar:/home/leon/.m2/repository/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar:/home/leon/.m2/repository/org/checkerframework/checker-qual/3.23.0/checker-qual-3.23.0.jar:/home/leon/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar:/home/leon/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar'
+--module-path
+'/home/leon/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-linux.jar:/home/leon/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-linux.jar:/home/leon/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-linux.jar:/home/leon/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-linux.jar:/home/leon/Documents/projects/DBI/Taskmanager/target/Taskmanager-1.0-SNAPSHOT.jar'
+--patch-module
+taskmanager='/home/leon/Documents/projects/DBI/Taskmanager/src/main/java:/home/leon/Documents/projects/DBI/Taskmanager/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Taskmanager 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/leon/Documents/projects/DBI/Taskmanager/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Taskmanager 1.0-SNAPSHOT API'
+taskmanager
+'/home/leon/Documents/projects/DBI/Taskmanager/src/main/java/module-info.java'
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/element-list = 1699951263402
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/deprecated-list.html = 1699951263462
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/type-search-index.zip = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/script.js = 1699951263470
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/overview-tree.html = 1699951263442
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/help-doc.html = 1699951263466
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/allpackages-index.html = 1699951263458
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/module-search-index.js = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/constant-values.html = 1699951263422
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/package-search-index.zip = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/jquery-ui.overrides.css = 1699951263478
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/index.html = 1699951263466
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/allclasses-index.html = 1699951263458
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/member-search-index.zip = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/index-all.html = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/module-search-index.zip = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/allclasses.html = 1699951263466
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/package-search-index.js = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/type-search-index.js = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/member-search-index.js = 1699951263454
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/search.js = 1699951263470
+/home/leon/Documents/projects/DBI/Taskmanager/target/apidocs/stylesheet.css = 1699951263470
